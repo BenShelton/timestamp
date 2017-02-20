@@ -1,2 +1,2 @@
 # timestamp
-A Timestamp Microserver made as part of FreeCodeCamp's coursework
+A Timestamp Microservice made as part of FreeCodeCamp's coursework
